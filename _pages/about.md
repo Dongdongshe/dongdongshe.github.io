@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor (Starting 2023 Fall) <br> <a href='https://cse.hkust.edu.hk/'>Department of Computer Science and Engineering</a> <br> <a href='https://hkust.edu.hk/'>Hong Kong University of Science and Technology</a>
+
 
 profile:
   align: right
