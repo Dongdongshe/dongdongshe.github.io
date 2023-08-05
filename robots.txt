@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dongdongshe.github.io/sitemap.xml
+Sitemap: https://cse.hkust.edu.hk/~dongdong//sitemap.xml
