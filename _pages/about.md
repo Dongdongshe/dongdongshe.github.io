@@ -27,3 +27,7 @@ I am broadly interested in **security** and **machine learning**. Particularly, 
 * **Neural-Symbolic Software Testing:** advance the state-of-the-art in automated software testing techniques such as fuzzing, symbolic execution, and formal verification through developing algorithms and tools that combine neural and symbolic approaches.
 * **Emerging Applications**: adopt data-driven approaches to solve security issues in high-impactful domains such as autonomous driving, ML system, and smart contracts.
 
+I am fortunate to work with these talented PhD students: 
+* Yuchong Xie (2024-Fall, BS,MS@SJTU, ex-leader of SJTU 0ops CTF team) co-adviced with Prof. <a href="https://www.cse.ust.hk/~shuaiw/">Shuai Wang</a>
+* <a href="https://sjyao.net/">Shuangjie Yao</a> (2024-Fall, BS@SJTU, Zhiyuan College)
+* Qiao Zhang (2024-Fall, BS@ZJU, Chu Kochen Honors College)
