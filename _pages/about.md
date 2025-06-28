@@ -10,8 +10,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room 3505</p>
-    <p>Academic Building</p>
+    <p>Room 3006</p>
+    <p>Cheng Yu Tung Building</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -28,6 +28,6 @@ I am broadly interested in **security** and **machine learning**. Particularly, 
 * **Emerging Applications**: adopt data-driven approaches to solve security issues in high-impactful domains such as autonomous driving, ML system, and smart contracts.
 
 I am fortunate to work with these talented PhD students: 
-* Yuchong Xie (2024-Fall, BS,MS@SJTU, ex-leader of SJTU 0ops CTF team) co-adviced with Prof. <a href="https://www.cse.ust.hk/~shuaiw/">Shuai Wang</a>
+* <a href="https://yu3h0.github.io/">Yuchong Xie</a> (2024-Fall, BS,MS@SJTU, ex-core member of SJTU 0ops CTF team) co-adviced with Prof. <a href="https://www.cse.ust.hk/~shuaiw/">Shuai Wang</a>
 * <a href="https://sjyao.net/">Shuangjie Yao</a> (2024-Fall, BS@SJTU, Zhiyuan College)
-* Qiao Zhang (2024-Fall, BS@ZJU, Chu Kochen Honors College)
+* <a href="https://jok1nq.github.io/">Qiao Zhang</a> (2024-Fall, BS@ZJU, Chu Kochen Honors College)
