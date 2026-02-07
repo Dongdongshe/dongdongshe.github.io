@@ -1,4 +1,4 @@
 # run website
-$ docker-compose run jekyll
+$ bundle exec jekyll serve --lsi 
 # build website
-$ docker-compose run build
+$ bundle build jekyll serve --lsi
