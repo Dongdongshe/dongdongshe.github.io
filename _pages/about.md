@@ -24,13 +24,12 @@ I received my Ph.D. at the Department of Computer Science, <a href="https://www.
 
 I am broadly interested in the intersection of **security** and **machine learning**. Particularly, I focus on applying data-driven approaches (e.g., large language models, machine learning, optimization) to solve security problems. Current research projects include:
 
-* **LLM Security:** investigate the security of LLM, LLM/agent-powered systems, interaction of LLM components.
+* **LLM Security:** investigate the security of LLM, LLM/agent-powered systems, LLM harness.
 * **LLM for Traditional Security**: leverage LLM to solve traditional security problems such as program analysis, vulnerability discovery.
 
 I am fortunate to work with these talented students: 
 * <a href="https://yu3h0.github.io/">Yuchong Xie</a> (2024-Fall PhD, BS,MS@SJTU, ex-core member of SJTU 0ops CTF team) co-adviced with Prof. <a href="https://www.cse.ust.hk/~shuaiw/">Shuai Wang</a>
 * <a href="https://sjyao.net/">Shuangjie Yao</a> (2024-Fall PhD , BS@SJTU, Zhiyuan College)
-* <a href="https://jok1nq.github.io/">Qiao Zhang</a> (2024-Fall MPhil, BS@ZJU, Chu Kochen Honors College)
 * <a href="https://zsliu2003.github.io/">Zesen Liu</a> (2025-Fall PhD, BS@Xidian U)
 * Haoyang Liu (2025-Fall PhD, BS@HUST)
 * Kaikai Zhang (2025-Fall PhD, BS@SJTU)
