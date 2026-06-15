@@ -31,6 +31,6 @@ I am fortunate to work with these talented students:
 * <a href="https://yu3h0.github.io/">Yuchong Xie</a> (2024-Fall PhD, BS,MS@SJTU, ex-core member of SJTU 0ops CTF team) co-adviced with Prof. <a href="https://www.cse.ust.hk/~shuaiw/">Shuai Wang</a>
 * <a href="https://sjyao.net/">Shuangjie Yao</a> (2024-Fall PhD , BS@SJTU, Zhiyuan College)
 * <a href="https://zsliu2003.github.io/">Zesen Liu</a> (2025-Fall PhD, BS@Xidian U)
-* Haoyang Liu (2025-Fall PhD, BS@HUST)
+* Haoyang Liu (2025-Fall MPhil, BS@HUST)
 * Kaikai Zhang (2025-Fall PhD, BS@SJTU)
-* Zhixiang Zhang (2026-Fall PhD, BS@Fudan U)
+* <a href="https://zzx1011.github.io/">Zhixiang Zhang</a> (2026-Fall PhD, BS@Fudan U)
